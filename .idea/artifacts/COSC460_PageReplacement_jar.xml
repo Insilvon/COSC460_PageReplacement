@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="COSC460_PageReplacement:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COSC460_PageReplacement_jar</output-path>
+    <root id="archive" name="COSC460_PageReplacement.jar">
+      <element id="module-output" name="COSC460_PageReplacement" />
+    </root>
+  </artifact>
+</component>
